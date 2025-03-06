@@ -17,6 +17,6 @@ void main() async {
   // await HiveService().clearAll();
   // Initialize Dependencies
   await initDependencies();
-
+//cart
   runApp(const App());
 }
